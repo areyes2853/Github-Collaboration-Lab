@@ -3,9 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
 import './App.css'
+import Welcome from './components/welcome'
 
 const App = () => {
-  return <h1>Hello world!</h1>;
+  return (
+    <>
+    <Welcome />
+    
+    </>
+  )
 };
 
 export default App
