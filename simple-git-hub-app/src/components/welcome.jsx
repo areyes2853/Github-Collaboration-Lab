@@ -27,21 +27,27 @@ const Welcome =() =>{
                 <div className="container" id="why-save">
                     <h2>Why Save Old Pet Stores?</h2>
                     <ul>
-                        <li>They often have deep roots in the community, fostering local connections.</li>
-                        <li>They provide expert advice and personalized service from knowledgeable owners and staff.</li>
-                        <li>They contribute to the unique character and charm of our neighborhoods.</li>
-                        <li>Many carry specialty items and support local breeders and suppliers.</li>
-                        <li>They offer a tangible experience, allowing customers to interact with animals and products firsthand.</li>
+                        <p>
+                        They often have deep roots in the community, fostering local connections.
+                        They provide expert advice and personalized service from knowledgeable owners and staff.
+                        They contribute to the unique character and charm of our neighborhoods.
+                        Many carry specialty items and support local breeders and suppliers.
+                        They offer a tangible experience, allowing customers to interact with animals and products firsthand.
+                        </p>
                     </ul>
                 </div>
 
                 <div className="container how-to-help" id="donate">
                     <h2>How You Can Help</h2>
                     <ul>
-                        <li><strong>Donate:</strong> Your financial contribution will directly support our initiatives to provide grants, business advice, and marketing assistance to struggling old pet stores. <a href="#" className="button small-button">Donate</a></li>
-                        <li><strong>Volunteer:</strong> Lend your time and skills to help with fundraising events, outreach programs, and administrative tasks. <a href="#">Learn More About Volunteering</a></li>
-                        <li><strong>Spread the Word:</strong> Share our mission with your friends, family, and social media networks. Help us raise awareness about the importance of saving these local treasures.</li>
-                        <li><strong>Support Local Pet Stores:</strong> Choose to shop at your local, independently-owned pet stores whenever possible.</li>
+                        <p>
+                        <strong>Donate:</strong> Your financial contribution will directly support our initiatives to provide grants, business advice, and marketing assistance to struggling old pet stores.
+                         <a href="#" className="button small-button">Donate</a> <strong>
+                        Volunteer:</strong> Lend your time and skills to help with fundraising events, outreach programs, and administrative tasks.
+                          <a href="#">Learn More About Volunteering</a>
+                         <strong>Spread the Word:</strong> Share our mission with your friends, family, and social media networks. Help us raise awareness about the importance of saving these local treasures.
+                         <strong>Support Local Pet Stores:</strong> Choose to shop at your local, independently-owned pet stores whenever possible.
+                        </p>
                     </ul>
                 </div>
 
