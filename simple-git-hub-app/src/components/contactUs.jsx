@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 
-function App() {
+function Contact() {
   const [formData, setFormData] = useState({
     name: 'Our Company',
     email: 'company@gmail.com',
@@ -57,4 +57,4 @@ function App() {
   );
 }
 
-export default App;
+export default Contact;
